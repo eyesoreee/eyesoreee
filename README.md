@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I’m Eyesoreee
 
-<!--
-**eyesoreee/eyesoreee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspring Android Developer | Kotlin • Jetpack Compose**
 
-Here are some ideas to get you started:
+I am a 3rd-year computer science major with a desire to become an Android Dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-orange?logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-UI-green?logo=android)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)
+![Static Badge](https://img.shields.io/badge/ROOM-DATABASE-blue?logo=sqlite)
+
+---
