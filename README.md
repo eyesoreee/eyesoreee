@@ -2,7 +2,7 @@
 
 **Aspring Android Developer | Kotlin • Jetpack Compose**
 
-I am a 3rd-year computer science major with a desire to become an Android Dev.
+I am a 4th-year computer science major with a desire to become an Android Dev.
 
 ---
 
