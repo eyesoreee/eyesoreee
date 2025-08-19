@@ -12,5 +12,3 @@ I am a 4th-year computer science major with a desire to become an Android Dev.
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-UI-green?logo=android)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)
 ![Static Badge](https://img.shields.io/badge/ROOM-DATABASE-blue?logo=sqlite)
-
----
