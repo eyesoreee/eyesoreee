@@ -1,8 +1,8 @@
 ## Hi there 👋, I’m Eyesoreee
 
-**Aspring Android Developer | Kotlin • Jetpack Compose**
+**Aspring Mobile Developer | Kotlin • Jetpack Compose • React Native • Expo**
 
-I am a 4th-year computer science major with a desire to become an Android Dev.
+I need a job 😭.
 
 ---
 
