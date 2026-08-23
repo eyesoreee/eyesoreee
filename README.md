@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Eyesoreee
+## Hello there 👋.
 
 **Aspring Mobile Developer | Kotlin • Jetpack Compose • React Native • Expo**
 
