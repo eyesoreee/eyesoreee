@@ -2,7 +2,7 @@
 
 **Aspring Mobile Developer | Kotlin • Jetpack Compose • React Native • Expo**
 
-I need a job 😭.
+Hire me to unlock my potential.
 
 ---
 
